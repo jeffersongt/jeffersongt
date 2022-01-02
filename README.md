@@ -5,12 +5,15 @@
 
 <h2 align='center'>Connect with me:</h2>
 <p align='center'>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jeffg__?label=Twitter&style=social">
-[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jefferson-guiot-23327b173)
+[<img align="center" alt="jeffg__ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="Jefferson Guiot | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 </p>
 <br />
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersongt&layout=compact&theme=midnight-red&langs_count=6&hide=shell,makefile" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersongt&layout=compact&theme=midnight-purple&langs_count=6&hide=shell,makefile" width="45%" />
 </details>
 </p>
+
+[twitter]: https://twitter.com/jeffg__
+[linkedin]: https://www.linkedin.com/in/jefferson-guiot-23327b173
