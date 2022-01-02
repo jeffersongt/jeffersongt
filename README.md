@@ -1,11 +1,9 @@
-### Hi there, I'm Jefferson 👋
+<h1 align='center'>Hi there, I'm Jefferson 👋</h1>
 
-<p align='center'>
-    Currently a student at Epitech</a>
-</p>
+<p align='center'>Currently a student at Epitech</a></p>
 
 
-# Connect with me:
+<h2 align='center'>Connect with me:</h2>
 
 [<img align="left" alt="jeffg__ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jefferson Guiot | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
