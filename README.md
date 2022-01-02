@@ -12,8 +12,9 @@
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersongt&layout=compact&theme=midnight-purple&langs_count=6&hide=shell,makefile" width="45%" />
-</details>
 </p>
 
-[twitter] : https://twitter.com/jeffg__
-[linkedin] : https://www.linkedin.com/in/jefferson-guiot-23327b173
+<br />
+
+[twitter]: https://twitter.com/jeffg__
+[linkedin]: https://www.linkedin.com/in/jefferson-guiot-23327b173
