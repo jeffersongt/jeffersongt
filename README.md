@@ -15,5 +15,5 @@
 </details>
 </p>
 
-[twitter]: https://twitter.com/jeffg__
-[linkedin]: https://www.linkedin.com/in/jefferson-guiot-23327b173
+[twitter] : https://twitter.com/jeffg__
+[linkedin] : https://www.linkedin.com/in/jefferson-guiot-23327b173
