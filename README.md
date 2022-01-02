@@ -3,9 +3,7 @@
 <p align='center'>Currently studying at Epitech</a></p>
 
 <h2 align='center'>Connect with me:</h2>
-<p align='center'>
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeffg__/)
-</p>
 <br />
 
 <p align='center'>
