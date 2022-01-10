@@ -7,3 +7,4 @@
 
 ## Github stats:
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersongt&layout=compact&theme=midnight-purple&langs_count=6&hide=shell,makefile" width="45%" />
